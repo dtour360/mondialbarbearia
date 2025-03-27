@@ -1,9 +1,9 @@
 {
  "name": "Barbearia Mondial",
  "description": "Faça um tour virtual pela Barbearia!",
- "display": "fullscreen",
- "theme_color": "#000000",
  "start_url": "index.htm",
+ "display": "fullscreen",
+ "background_color": "#000000",
  "icons": [
   {
    "type": "image/png",
@@ -41,5 +41,5 @@
    "src": "misc/icon16.png"
   }
  ],
- "background_color": "#000000"
+ "theme_color": "#000000"
 }
